@@ -1,0 +1,24 @@
+
+.first-title{
+    font-family: Copperplate Gothic Bold, Arial, sans-serif;
+    text-align: center;
+}
+.first-subtitle{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.upper-navbar{
+    background-color: darkred;
+    display: flex;
+    justify-content: flex-end;
+    gap: 100px;
+
+}
+.children{
+    color: white;
+    font-size: medium;
+    margin-right: 5px;
+}
+.home-button{
+    margin-right: 695px; /*???*/
+}
